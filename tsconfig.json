@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+  },
+  "include": [
+    "src/**/*.ts",
+    "index.ts"
+  ],
+  "$schema": "https://json.schemastore.org/tsconfig"
+}
